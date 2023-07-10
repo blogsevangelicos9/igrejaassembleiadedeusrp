@@ -1,7 +1,7 @@
 ("olá sejam bem vindos!!!/muita paz e saude para todos/ parabéns sejam muito mais que bem vindos/");
 # igrejaassembleiadedeusrp
 Igreja Assembleia de Deus 
-<doc html="" type=""><html><head><title></title><meta charset="utf-8"></meta></head>
+<doc html="" type=""><html><head><meta charset="utf-8"></meta></head>
 <body align="CENTER"><pre></pre><tr><td></td></tr><id></id>
 <marquee><h1>SEJAM MUITO BEM VINDOS!!! E RECEBAM A PAZ DO SENHOR JESUS CRISTO DE NAZARÉ!!!.OS QUE CONFIAM NO SENHOR SERÃO COMO MONTES DE SIÃO QUE NÃO SE ABALAM MAS PERMANECEM PARA SEMPRE!!! </h1></marquee>
 <img height="375px" src="https://i.pinimg.com/564x/75/d1/0a/75d10a6081bc6e3a07fffe0622d7848c.jpg" width="375px" />
