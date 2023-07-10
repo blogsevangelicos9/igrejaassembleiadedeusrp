@@ -1,4 +1,4 @@
-var{log.console:("olá sejam bem vindos!!!")}
+var{console:("olá sejam bem vindos!!!/muita paz e saude para todos/ parabéns sejam muito mais que bem vindos/")}
 # igrejaassembleiadedeusrp
 Igreja Assembleia de Deus 
 <doc html="" type=""><html><head><title></title><meta charset="utf-8"></meta></head>
